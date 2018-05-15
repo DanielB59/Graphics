@@ -12,6 +12,14 @@ import java.util.function.Function;
 
 import javax.swing.*;
 
+/*
+ * Excercise 2 handin:
+ * participants:
+ * Daniel Ben Zvi 301770640
+ * Keren Gold 305277287
+ * Sagi Fridman 305010969
+ * Sharon ? ?
+ */
 public class Screen extends JFrame implements Runnable, MouseListener, ActionListener {
 	
 	private static final long serialVersionUID = 1L;
@@ -172,6 +180,7 @@ public class Screen extends JFrame implements Runnable, MouseListener, ActionLis
 	}
 	
 	/*
+	 * deprecated, ignore this method!
 	 * drawing a single circle using straight lines
 	 */
 	@Deprecated

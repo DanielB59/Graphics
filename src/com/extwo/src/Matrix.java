@@ -3,6 +3,14 @@ package com.extwo.src;
 import java.io.Serializable;
 import java.util.Arrays;
 
+/*
+ * Excercise 2 handin:
+ * participants:
+ * Daniel Ben Zvi 301770640
+ * Keren Gold 305277287
+ * Sagi Fridman 305010969
+ * Sharon ? ?
+ */
 public class Matrix implements Serializable {
 	
 	/**

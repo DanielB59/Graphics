@@ -6,6 +6,14 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.function.Function;
 
+/*
+ * Excercise 2 handin:
+ * participants:
+ * Daniel Ben Zvi 301770640
+ * Keren Gold 305277287
+ * Sagi Fridman 305010969
+ * Sharon ? ?
+ */
 public interface Shape {
 	
 	public static double deg2rad(double deg) {

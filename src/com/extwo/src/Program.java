@@ -1,10 +1,12 @@
 package com.extwo.src;
 
 /*
- * Excercise 1 handin:
+ * Excercise 2 handin:
  * participants:
  * Daniel Ben Zvi 301770640
  * Keren Gold 305277287
+ * Sagi Fridman 305010969
+ * Sharon ? ?
  */
 public class Program {
 
